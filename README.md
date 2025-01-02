@@ -1,4 +1,5 @@
 # remote-repo
 my first repo.
-hahahaha
-why this page is so vast,lets do some thing
+why this page is so vast, lets do some thing
+first add some goods about learning
+second commit and syn
